@@ -1,0 +1,171 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="BaseOnThisFunction" />
+  <action id="CheckinProject" />
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DSM.OpenInEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DecrementWindowHeight" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorMoveToPageTopWithSelection" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Go To Tab #1">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="Go To Tab #2">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Go To Tab #3">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="Go To Tab #4">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="Go To Tab #5">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="Go To Tab #6">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="Go To Tab #7">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="Go To Tab #8">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="Go To Tab #9">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="GoTypeHierarchyPopupMenu.BaseOnThisType" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoTest" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.ShowThumbnails" />
+  <action id="IncrementWindowHeight" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="OpenModuleSettings">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Push" />
+  <action id="VimWindowDown">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="VimWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="VimWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="VimWindowSplitHorizontal">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id="VimWindowSplitVertical">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="VimWindowUp">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+</keymap>

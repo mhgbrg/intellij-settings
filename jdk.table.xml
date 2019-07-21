@@ -1,0 +1,60 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Elixir 1.8.1" />
+      <type value="Elixir SDK" />
+      <homePath value="/usr/local/Cellar/elixir/1.8.1" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/elixir/1.8.1/lib/logger/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.8.1/lib/elixir/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.8.1/lib/ex_unit/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.8.1/lib/mix/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.8.1/lib/eex/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.8.1/lib/iex/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://hexdoc.pm/elixir" type="simple" />
+            <root url="https://hexdoc.pm/ex_unit" type="simple" />
+            <root url="https://hexdoc.pm/mix" type="simple" />
+            <root url="https://hexdoc.pm/eex" type="simple" />
+            <root url="https://hexdoc.pm/iex" type="simple" />
+            <root url="http://www.erlang.org/documentation/doc-10.3.1" type="simple" />
+            <root url="https://hexdoc.pm/logger" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional erlang-sdk-name="Erlang for Elixir 21" />
+    </jdk>
+    <jdk version="2">
+      <name value="Erlang for Elixir 21" />
+      <type value="Erlang SDK for Elixir SDK" />
+      <version value="21" />
+      <homePath value="/usr/local/Cellar/erlang/21.3.7.1" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

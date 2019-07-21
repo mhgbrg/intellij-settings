@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".env-test" type="PLAIN_TEXT" />
+      <mapping pattern="dumpDataInPSQL" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
+    </extensionMap>
+  </component>
+</application>
