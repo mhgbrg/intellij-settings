@@ -3,19 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/index.html.eex" timestamp="1563659037713">
-        <mark key="'" line="16" column="74" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="52" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/sudoku_par_entries.erl" timestamp="1555858454397">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="53" column="8" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/code/hndaily/Makefile" timestamp="1562446950314">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="31" column="10" />
@@ -23,26 +10,150 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/web/errors.go" timestamp="1553183973192">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="18" column="46" />
-        <mark key="^" line="18" column="46" />
-        <mark key="." line="18" column="46" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/endpoint.ex" timestamp="1556311672182">
+        <mark key="'" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/templates/hello/index.html.eex" timestamp="1556258011360">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" timestamp="1563662675001">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/web/templates/archive.gohtml" timestamp="1560347435069">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/deps/plug/lib/plug/logger.ex" timestamp="1556291617292">
+        <mark key="'" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/priv/repo/migrations/20190720215833_create_users.exs" timestamp="1563660175956">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" timestamp="1563660934871">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/web/static/js/digest.js" timestamp="1562447015621">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/user.html.eex" timestamp="1563658995233">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/index.html.eex" timestamp="1563659037713">
+        <mark key="'" line="16" column="74" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/web/static/css/digest.css" timestamp="1562446750270">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" timestamp="1563661035435">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="19" column="75" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/layout/app.html.eex" timestamp="1563659494710">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/sudoku_par_entries.erl" timestamp="1555858454397">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="53" column="8" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/priv/repo/migrations/20190429084502_create_credentials.exs" timestamp="1556527633606">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" timestamp="1563664362211">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="30" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web.ex" timestamp="1556360886362">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/sudoku_par_workers_eager.erl" timestamp="1556187521838">
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="^" line="237" column="10" />
+        <mark key="." line="244" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" timestamp="1563659139658">
+        <mark key="'" line="748" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/sudoku_par_guess_limit.erl" timestamp="1556187448051">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="^" line="185" column="7" />
+        <mark key="." line="229" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" timestamp="1562528339186">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="48" column="31" />
+        <mark key="]" line="48" column="29" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="48" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/mix.exs" timestamp="1556292309877">
+        <mark key="'" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/web/templates/digest.gohtml" timestamp="1562447072993">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="23" />
+        <mark key="^" line="107" column="4" />
+        <mark key="." line="53" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/page/index.html.eex" timestamp="1563657254294">
+        <mark key="[" line="1" column="65" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563810634761">
+        <mark key="'" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/show.html.eex" timestamp="1563659009050">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="1" column="37" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/package.json" timestamp="1560347082433">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/deps/plug/lib/plug/logger.ex" timestamp="1556291617292">
-        <mark key="'" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/controllers/hello_controller.ex" timestamp="1556258263091">
         <mark key="[" line="5" column="5" />
@@ -57,31 +168,12 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/templates/hello/show.html.eex" timestamp="1556258346939">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" timestamp="1563661035435">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="19" column="75" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/webpack.config.js" timestamp="1560349681924">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="13" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/views/hello_view.ex" timestamp="1556257915772">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/new.html.eex" timestamp="1563662520440">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/views/user_view.ex" timestamp="1563657932173">
         <mark key="[" line="10" column="3" />
@@ -89,35 +181,23 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/config/dev.exs" timestamp="1556300459296">
-        <mark key="'" line="11" column="7" />
+      <file name="$USER_HOME$/code/hndaily/pkg/web/templates.go" timestamp="1560348949293">
+        <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" timestamp="1563658540335">
-        <mark key="'" line="28" column="0" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/config/dev.exs" timestamp="1563659607764">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/templates/hello/index.html.eex" timestamp="1556258011360">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/priv/repo/migrations/20190428143508_create_users.exs" timestamp="1556462280015">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/priv/repo/migrations/20190429084502_create_credentials.exs" timestamp="1556527633606">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/.gitignore" timestamp="1555855744460">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/priv/repo/migrations/20190720215833_create_users.exs" timestamp="1563660175956">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="10" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/views/hello_view.ex" timestamp="1556257915772">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/rumbl/accounts/user.ex" timestamp="1556463018802">
         <mark key="[" line="13" column="12" />
@@ -125,63 +205,32 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/sudoku_par_workers_eager.erl" timestamp="1556187521838">
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="^" line="237" column="10" />
-        <mark key="." line="244" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/static/css/digest.css" timestamp="1562446750270">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/static/js/digest.js" timestamp="1562447015621">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/page/index.html.eex" timestamp="1563657254294">
-        <mark key="[" line="1" column="65" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" timestamp="1563662675001">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="31" column="19" />
-        <mark key="." line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-      </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/rumbl/accounts.ex" timestamp="1556466685173">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" timestamp="1563664362211">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="15" />
-        <mark key="^" line="30" column="10" />
+      <file name="$USER_HOME$/code/hndaily/.envrc" timestamp="1554640348246">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="72" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/user.html.eex" timestamp="1563658995233">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="6" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/config/dev.exs" timestamp="1556300459296">
+        <mark key="'" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/web/templates.go" timestamp="1560348949293">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/code/hndaily/static/css/digest.css" timestamp="1553261332782">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="12" />
+        <mark key="." line="47" column="12" />
+        <mark key="^" line="47" column="12" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/endpoint.ex" timestamp="1556311672182">
-        <mark key="'" line="1" column="16" />
+      <file name="$USER_HOME$/code/hndaily/pkg/web/session.go" timestamp="1556526425178">
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="11" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="29" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7ca56f9-c7ea-43c3-b476-c919181bed7b/console_1.sql" timestamp="1560175355339">
         <mark key="'" line="31" column="9" />
@@ -190,37 +239,8 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/router.ex" timestamp="1556259990188">
-        <mark key="[" line="20" column="51" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/layout/app.html.eex" timestamp="1563659494710">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" timestamp="1563659139658">
-        <mark key="'" line="748" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" timestamp="1563660934871">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="48" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/web/session.go" timestamp="1556526425178">
-        <mark key="[" line="29" column="54" />
-        <mark key="]" line="29" column="11" />
-        <mark key="^" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/templates/archive.gohtml" timestamp="1560347435069">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/deps/phoenix/lib/phoenix/endpoint.ex" timestamp="1556300503307">
+        <mark key="'" line="388" column="2" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/credential.ex" timestamp="1562620756136">
         <mark key="[" line="23" column="0" />
@@ -228,25 +248,19 @@
         <mark key="." line="29" column="4" />
         <mark key="^" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web.ex" timestamp="1556360886362">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/deps/phoenix/lib/phoenix/endpoint.ex" timestamp="1556300503307">
-        <mark key="'" line="388" column="2" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/sudoku_par_guess_limit.erl" timestamp="1556187448051">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="^" line="185" column="7" />
-        <mark key="." line="229" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" timestamp="1562621031891">
-        <mark key="'" line="0" column="10" />
+      <file name="$USER_HOME$/code/hndaily/web/package.json" timestamp="1560347082433">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/code/hndaily/.gitignore" timestamp="1562446979716">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" timestamp="1562621031891">
+        <mark key="'" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/code/hndaily/web/static/css/global.css" timestamp="1562447033443">
         <mark key="'" line="16" column="1" />
@@ -255,63 +269,52 @@
         <mark key="^" line="44" column="1" />
         <mark key="." line="44" column="1" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/config/dev.exs" timestamp="1563659607764">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/templates/hello/show.html.eex" timestamp="1556258346939">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/static/css/digest.css" timestamp="1553261332782">
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="47" column="12" />
-        <mark key="." line="47" column="12" />
-        <mark key="^" line="47" column="12" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/router.ex" timestamp="1556259990188">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" timestamp="1562528339186">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="48" column="31" />
-        <mark key="]" line="48" column="29" />
-        <mark key="^" line="48" column="29" />
-        <mark key="." line="48" column="29" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" timestamp="1563658540335">
+        <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/priv/repo/migrations/20190428143508_create_users.exs" timestamp="1556462280015">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="10" />
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" timestamp="1563810990800">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="49" column="74" />
+        <mark key="]" line="49" column="76" />
+        <mark key="^" line="49" column="76" />
+        <mark key="." line="49" column="76" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/.envrc" timestamp="1554640348246">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="72" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/.gitignore" timestamp="1555855744460">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/new.html.eex" timestamp="1563662520440">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
+      <file name="$USER_HOME$/code/hndaily/web/webpack.config.js" timestamp="1560349681924">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/hello/mix.exs" timestamp="1556292309877">
-        <mark key="'" line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/templates/digest.gohtml" timestamp="1562447072993">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="53" column="23" />
-        <mark key="^" line="107" column="4" />
-        <mark key="." line="53" column="23" />
+      <file name="$USER_HOME$/code/hndaily/pkg/web/errors.go" timestamp="1553183973192">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="46" />
       </file>
       <file name="/usr/local/Cellar/elixir/1.8.1/lib/mix/ebin/Elixir.Mix.Project.beam" timestamp="1556291862181">
         <mark key="'" line="280" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="63" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="19" column="22" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
       <jump line="53" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
       <jump line="50" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
       <jump line="48" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
@@ -405,13 +408,20 @@
       <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="20" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
+      <jump line="65" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>status</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>postgres</text>
@@ -420,34 +430,34 @@
         <text encoding="base64">ICAgICAgICA8JT0gZXJyb3JfdGFnIGYsIDpuYW1lICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVyaXM6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB8PiBwdXRfZmxhc2goOmluZm8sICIje3VzZXIubmFtZX0gY3JlYXRlZCEiKQo=</text>
+        <text encoding="base64">ICAgIGNvbm4K</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
