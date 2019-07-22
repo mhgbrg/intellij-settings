@@ -146,8 +146,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563810634761">
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563812666965">
         <mark key="'" line="55" column="0" />
+        <mark key="[" line="92" column="36" />
+        <mark key="]" line="92" column="41" />
+        <mark key="." line="92" column="41" />
+        <mark key="^" line="92" column="41" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/show.html.eex" timestamp="1563659009050">
         <mark key="[" line="2" column="0" />
@@ -284,12 +288,14 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" timestamp="1563658540335">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" timestamp="1563810990800">
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" timestamp="1563812510966">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="49" column="74" />
-        <mark key="]" line="49" column="76" />
-        <mark key="^" line="49" column="76" />
-        <mark key="." line="49" column="76" />
+        <mark key="[" line="52" column="79" />
+        <mark key="]" line="52" column="79" />
+        <mark key="." line="52" column="79" />
+      </file>
+      <file name="$USER_HOME$/Code/dataset-diff/versions.props" timestamp="1563813044207">
+        <mark key="[" line="4" column="57" />
       </file>
       <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/.gitignore" timestamp="1555855744460">
         <mark key="[" line="1" column="5" />
@@ -418,10 +424,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>status</text>
+        <text>retrofit</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>retrofit</text>
       </register>
       <register name="/" type="4">
         <text>postgres</text>
@@ -430,34 +436,34 @@
         <text encoding="base64">ICAgICAgICA8JT0gZXJyb3JfdGFnIGYsIDpuYW1lICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVyaXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlTdG9yZVBhc3N3b3JkOiAie3tzc2wua2V5c3RvcmVfcGFzc3dvcmR9fSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlTdG9yZVBhdGg6ICJ7e3NzbC5rZXlzdG9yZV9wYXRofX0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVyaXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbm4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
