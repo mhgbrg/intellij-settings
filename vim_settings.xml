@@ -13,6 +13,9 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/endpoint.ex" timestamp="1556311672182">
         <mark key="'" line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" timestamp="1563886319239">
+        <mark key="'" line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/templates/hello/index.html.eex" timestamp="1556258011360">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
@@ -25,11 +28,6 @@
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/templates/archive.gohtml" timestamp="1560347435069">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/deps/plug/lib/plug/logger.ex" timestamp="1556291617292">
         <mark key="'" line="40" column="0" />
@@ -47,12 +45,12 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" timestamp="1563885153919">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" timestamp="1563886052353">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="54" column="30" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/code/hndaily/web/static/js/digest.js" timestamp="1562447015621">
         <mark key="'" line="48" column="0" />
@@ -87,11 +85,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="19" column="75" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/layout/app.html.eex" timestamp="1563659494710">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/sudoku_par_entries.erl" timestamp="1555858454397">
         <mark key="[" line="51" column="0" />
@@ -162,12 +155,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563880700209">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="100" column="51" />
-        <mark key="]" line="100" column="56" />
-        <mark key="^" line="100" column="56" />
-        <mark key="." line="100" column="56" />
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563886529620">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/show.html.eex" timestamp="1563659009050">
         <mark key="[" line="2" column="0" />
@@ -187,6 +179,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="15" column="25" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" timestamp="1563886163252">
+        <mark key="'" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/new.html.eex" timestamp="1563662520440">
         <mark key="'" line="19" column="0" />
@@ -289,11 +284,6 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/.gitignore" timestamp="1562446979716">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" timestamp="1562621031891">
         <mark key="'" line="0" column="10" />
       </file>
@@ -352,50 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="15" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="7" column="6" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="7" column="3" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" />
-      <jump line="0" column="10" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="46" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="719" column="6" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" />
-      <jump line="713" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" />
-      <jump line="709" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" />
-      <jump line="707" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" />
-      <jump line="705" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" />
-      <jump line="702" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" />
-      <jump line="696" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" />
-      <jump line="745" column="24" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" />
-      <jump line="748" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" />
-      <jump line="20" column="5" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/views/error_view.ex" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/views/error_view.ex" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/views/error_view.ex" />
-      <jump line="23" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/views/error_view.ex" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/views/error_view.ex" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/views/error_view.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/config/dev.exs" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="3" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="25" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
@@ -452,64 +398,107 @@
       <jump line="17" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
       <jump line="9" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="31" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="63" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="84" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgent.java" />
+      <jump line="33" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="181" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="177" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="172" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="168" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="164" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="151" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="138" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="101" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>compile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tZXRyaWNzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>compile</text>
+        <text>getOr</text>
       </register>
       <register name="/" type="4">
-        <text>postgres</text>
+        <text>fromClass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5wYWxhbnRpci5mb3VuZHJ5OmZvdW5kcnktc3BhcmsnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF2ZW4geyB1cmwgJ2h0dHBzOi8vYXJ0aWZhY3RvcnkucGFsYW50aXIuYnVpbGQvYXJ0aWZhY3RvcnkvaW50ZXJuYWwtZGlzdC1yZWxlYXNlJyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tZXRyaWNzKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFsuLi5dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBydW50aW1lLmN1cnJlbnQoKS5zZXJ2aWNlc0Jsb2NrKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5ICdjb20ucGFsYW50aXIuZm91bmRyeTpmb3VuZHJ5LXNwYXJrJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBydW50aW1lLmN1cnJlbnQoKS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGF0YXNldERpZmZTZXJ2ZXIuY2xhc3MuZ2V0TmFtZSgpLCAibGF0ZXN0IikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5wYWxhbnRpci5mb3VuZHJ5OmZvdW5kcnktc3BhcmsnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGF0YXNldERpZmZTZXJ2ZXIuY2xhc3MsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC51c2VyQWdlbnQoVXNlckFnZW50Lm9mKEFnZW50Lm9mKCIiKSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbmVidWxhLmRlcGVuZGVuY3ktcmVjb21tZW5kZXInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICduZWJ1bGEuZGVwZW5kZW5jeS1yZWNvbW1lbmRlcicK</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
       </register>
     </registers>
     <search>
-      <last-search>postgres</last-search>
+      <last-search>fromClass</last-search>
       <last-offset />
-      <last-pattern>postgres</last-pattern>
+      <last-pattern>fromClass</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>refine_row</entry>
         <entry>refine_rows</entry>
         <entry>benchmarks</entry>
         <entry>catch</entry>
@@ -529,6 +518,7 @@
         <entry>pbkdf</entry>
         <entry>protect</entry>
         <entry>postgres</entry>
+        <entry>fromClass</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
