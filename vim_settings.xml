@@ -167,6 +167,9 @@
         <mark key="^" line="48" column="29" />
         <mark key="." line="48" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" timestamp="1563901537216">
+        <mark key="'" line="114" column="0" />
+      </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/mix.exs" timestamp="1556292309877">
         <mark key="'" line="61" column="0" />
       </file>
@@ -391,14 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.conjure.java.api/service-config/2.3.0/c4db19ee98b56f9f5cbb5b62687a6eff2d51df1e/service-config-2.3.0-sources.jar!/com/palantir/conjure/java/api/config/service/UserAgents.java" />
-      <jump line="41" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkManager.java" />
       <jump line="60" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkManager.java" />
       <jump line="3" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkManager.java" />
@@ -491,6 +486,14 @@
       <jump line="48" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" />
       <jump line="62" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" />
       <jump line="73" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" />
+      <jump line="98" column="34" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
+      <jump line="142" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
