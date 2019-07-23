@@ -47,11 +47,12 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" timestamp="1563882383081">
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" timestamp="1563885153919">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/code/hndaily/web/static/js/digest.js" timestamp="1562447015621">
         <mark key="'" line="48" column="0" />
@@ -454,46 +455,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OverrideTransitives</text>
+        <text>compile</text>
       </register>
       <register name="-" type="4">
-        <text>OverrideTransitives</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
         <text>postgres</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gZXJyb3JfdGFnIGYsIDpuYW1lICU+Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5wYWxhbnRpci5mb3VuZHJ5OmZvdW5kcnktc3BhcmsnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2ZW4geyB1cmwgJ2h0dHBzOi8vYXJ0aWZhY3RvcnkucGFsYW50aXIuYnVpbGQvYXJ0aWZhY3RvcnkvaW50ZXJuYWwtZGlzdC1yZWxlYXNlJyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFsuLi5dCg==</text>
+        <text encoding="base64">ICAgIGltCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5ICdjb20ucGFsYW50aXIuZm91bmRyeTpmb3VuZHJ5LXNwYXJrJwo=</text>
+        <text encoding="base64">ICAgIFsuLi5dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5ICdjb20ucGFsYW50aXIuZm91bmRyeTpmb3VuZHJ5LXNwYXJrJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5wYWxhbnRpci5mb3VuZHJ5OmZvdW5kcnktc3BhcmsnCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICcnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbmVidWxhLmRlcGVuZGVuY3ktcmVjb21tZW5kZXInCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5wYWxhbnRpci5mb3VuZHJ5OmZvdW5kcnktc3BhcmsnCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICcnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbmVidWxhLmRlcGVuZGVuY3ktcmVjb21tZW5kZXInCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
