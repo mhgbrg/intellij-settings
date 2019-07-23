@@ -185,11 +185,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkManagerBuilder.java" timestamp="1563895733034">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563895130011">
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563896991380">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="99" column="86" />
-        <mark key="]" line="99" column="99" />
-        <mark key="." line="99" column="99" />
+        <mark key="[" line="84" column="72" />
+        <mark key="]" line="84" column="72" />
+        <mark key="." line="84" column="72" />
         <mark key="^" line="99" column="99" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/show.html.eex" timestamp="1563659009050">
@@ -491,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IC8vIG5vdCB1c2VmdWwgZm9yIHRlc3Rz</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IC8vIG5vdCB1c2VmdWwgZm9yIHRlc3Rz</text>
       </register>
       <register name="/" type="4">
         <text>fromClass</text>
