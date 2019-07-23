@@ -204,8 +204,8 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" timestamp="1563659139658">
         <mark key="'" line="748" column="0" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" timestamp="1563660934871">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" timestamp="1563917539457">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="14" column="44" />
         <mark key="]" line="15" column="48" />
         <mark key="." line="15" column="48" />
@@ -264,12 +264,12 @@
         <mark key="." line="47" column="12" />
         <mark key="^" line="47" column="12" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" timestamp="1562528339186">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="48" column="31" />
-        <mark key="]" line="48" column="29" />
-        <mark key="^" line="48" column="29" />
-        <mark key="." line="48" column="29" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" timestamp="1563917484096">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="45" column="29" />
+        <mark key="^" line="45" column="29" />
+        <mark key="." line="45" column="29" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/priv/repo/migrations/20190428143508_create_users.exs" timestamp="1556462280015">
         <mark key="[" line="11" column="10" />
@@ -305,12 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="63" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="19" column="22" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" />
       <jump line="5" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
       <jump line="53" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
       <jump line="50" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
@@ -330,11 +324,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="31" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="51" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
       <jump line="25" column="4" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="26" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="24" column="4" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
@@ -381,10 +370,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/views/error_view.ex" />
       <jump line="19" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/views/error_view.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/config/dev.exs" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="3" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="25" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
       <jump line="4" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
@@ -405,6 +392,19 @@
       <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="20" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
+      <jump line="47" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="49" column="51" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
+      <jump line="11" column="6" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
