@@ -47,6 +47,12 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" timestamp="1563882383081">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/code/hndaily/web/static/js/digest.js" timestamp="1562447015621">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="0" column="0" />
@@ -98,6 +104,9 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/var/security/ca.cer" timestamp="1563879613971">
+        <mark key="[" line="24" column="24" />
+      </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" timestamp="1563664362211">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="28" column="15" />
@@ -114,11 +123,11 @@
         <mark key="^" line="237" column="10" />
         <mark key="." line="244" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/gofigure.yml" timestamp="1563878899233">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="18" column="64" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Code/dataset-diff/gofigure.yml" timestamp="1563879789992">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" timestamp="1563659139658">
         <mark key="'" line="748" column="0" />
@@ -152,12 +161,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563878712401">
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563880700209">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="92" column="36" />
-        <mark key="]" line="92" column="41" />
-        <mark key="." line="92" column="41" />
-        <mark key="^" line="92" column="41" />
+        <mark key="[" line="100" column="51" />
+        <mark key="]" line="100" column="56" />
+        <mark key="^" line="100" column="56" />
+        <mark key="." line="100" column="56" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/show.html.eex" timestamp="1563659009050">
         <mark key="[" line="2" column="0" />
@@ -193,6 +202,12 @@
       </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/templates.go" timestamp="1560348949293">
         <mark key="'" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffRuntimeConfig.java" timestamp="1563880741224">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/config/dev.exs" timestamp="1563659607764">
         <mark key="'" line="0" column="0" />
@@ -236,6 +251,9 @@
         <mark key="." line="47" column="12" />
         <mark key="^" line="47" column="12" />
       </file>
+      <file name="/Dummy.txt" timestamp="1563879155435">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/session.go" timestamp="1556526425178">
         <mark key="[" line="29" column="54" />
         <mark key="]" line="29" column="11" />
@@ -248,6 +266,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="^" line="33" column="31" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffInstallConfig.java" timestamp="1563880750766">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="20" column="3" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/deps/phoenix/lib/phoenix/endpoint.ex" timestamp="1556300503307">
         <mark key="'" line="388" column="2" />
@@ -294,14 +318,14 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" timestamp="1563658540335">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" timestamp="1563878845732">
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" timestamp="1563878969910">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/versions.props" timestamp="1563813044207">
-        <mark key="[" line="4" column="57" />
+      <file name="$USER_HOME$/Code/dataset-diff/versions.props" timestamp="1563881026499">
+        <mark key="[" line="2" column="58" />
       </file>
       <file name="$USER_HOME$/Dropbox/school/Chalmers/DAT280/labs/lab2/.gitignore" timestamp="1555855744460">
         <mark key="[" line="1" column="5" />
@@ -327,25 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
-      <jump line="18" column="34" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/new.html.eex" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/new.html.eex" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/new.html.eex" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
-      <jump line="31" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/mix.exs" />
-      <jump line="25" column="4" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="24" column="4" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="0" column="10" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" />
       <jump line="23" column="15" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="20" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="13" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
@@ -427,13 +432,32 @@
       <jump line="14" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
+      <jump line="35" column="4" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjcmV0OiAnV1o2TTJLKnhDWSYmQ2dRRSpZSEJLbXcjQycK</text>
+      <register name="&quot;" type="4">
+        <text>OverrideTransitives</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>OverrideTransitives</text>
       </register>
       <register name="/" type="4">
         <text>postgres</text>
@@ -442,34 +466,34 @@
         <text encoding="base64">ICAgICAgICA8JT0gZXJyb3JfdGFnIGYsIDpuYW1lICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjcmV0OiAnV1o2TTJLKnhDWSYmQ2dRRSpZSEJLbXcjQycK</text>
+        <text encoding="base64">ICAgIGltCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ6IGRhdGFzZXQtZGlmZgo=</text>
+        <text encoding="base64">ICAgIFsuLi5dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9hdXRoMjoK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5ICdjb20ucGFsYW50aXIuZm91bmRyeTpmb3VuZHJ5LXNwYXJrJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlcnZpY2UtZGlzY292ZXJ5Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjcmV0OiAnUFIqJnJRSGd6MyFWWkUjTjlec0RRbkQjeCcK</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5wYWxhbnRpci5mb3VuZHJ5OmZvdW5kcnktc3BhcmsnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ6IGRhdGFzZXQtZGlmZgo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9hdXRoMjoK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbmVidWxhLmRlcGVuZGVuY3ktcmVjb21tZW5kZXInCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjcmV0OiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLSBodHRwczovL2lsLXBnLWFscGhhLTMzMTI1MTIuZXV3MS5wYWxhbnRpci5nbG9iYWw6MTg0NDMvYWx0YS9hcGkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
@@ -528,11 +552,14 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
