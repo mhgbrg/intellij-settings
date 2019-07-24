@@ -59,12 +59,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" timestamp="1563975727955">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" timestamp="1563983615197">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="29" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="48" column="29" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/index.html.eex" timestamp="1563659037713">
         <mark key="'" line="16" column="74" />
@@ -73,8 +73,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkManager.java" timestamp="1563962915477">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkManager.java" timestamp="1563983480900">
         <mark key="'" line="57" column="0" />
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="22" />
       </file>
       <file name="$USER_HOME$/code/hndaily/web/static/css/digest.css" timestamp="1562446750270">
         <mark key="'" line="0" column="0" />
@@ -202,11 +204,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" timestamp="1563976940242">
-        <mark key="'" line="6" column="46" />
-        <mark key="[" line="138" column="42" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" timestamp="1563984622854">
+        <mark key="'" line="153" column="0" />
+        <mark key="^" line="85" column="28" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" timestamp="1562621031891">
         <mark key="'" line="0" column="10" />
@@ -245,149 +245,149 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4427" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
-      <jump line="1" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
-      <jump line="4" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
-      <jump line="6" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
-      <jump line="171" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
-      <jump line="154" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
-      <jump line="73" column="8" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="22" column="23" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="83" column="8" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="77" column="19" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="78" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="172" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="175" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="193" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="191" column="3" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="184" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="185" column="4" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="208" column="8" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="189" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="209" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="204" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="181" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="195" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="215" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="197" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="216" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="234" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="166" column="29" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="144" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="145" column="58" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="151" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="164" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="69" column="24" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="91" column="7" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="94" column="28" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="42" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-metadata-api/1.116.0/bae95ea66d712f191289156cae7d197f1e08c647/foundry-metadata-api-1.116.0-sources.jar!/com/palantir/foundry/schemas/api/types/FoundrySchema.java" />
-      <jump line="88" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-metadata-api/1.116.0/bae95ea66d712f191289156cae7d197f1e08c647/foundry-metadata-api-1.116.0-sources.jar!/com/palantir/foundry/schemas/api/types/FoundrySchema.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-metadata-api/1.116.0/bae95ea66d712f191289156cae7d197f1e08c647/foundry-metadata-api-1.116.0-sources.jar!/com/palantir/foundry/schemas/api/types/FoundrySchema.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-metadata-api/1.116.0/bae95ea66d712f191289156cae7d197f1e08c647/foundry-metadata-api-1.116.0-sources.jar!/com/palantir/foundry/schemas/api/types/FoundrySchema.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-metadata-api/1.116.0/bae95ea66d712f191289156cae7d197f1e08c647/foundry-metadata-api-1.116.0-sources.jar!/com/palantir/foundry/schemas/api/types/FoundrySchema.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-metadata-api/1.116.0/bae95ea66d712f191289156cae7d197f1e08c647/foundry-metadata-api-1.116.0-sources.jar!/com/palantir/foundry/schemas/api/types/FoundrySchema.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-metadata-api/1.116.0/bae95ea66d712f191289156cae7d197f1e08c647/foundry-metadata-api-1.116.0-sources.jar!/com/palantir/foundry/schemas/api/types/FoundrySchema.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-metadata-api/1.116.0/bae95ea66d712f191289156cae7d197f1e08c647/foundry-metadata-api-1.116.0-sources.jar!/com/palantir/foundry/schemas/api/types/FoundrySchema.java" />
-      <jump line="65" column="9" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="31" column="37" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="91" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="80" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="70" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="56" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="40" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="91" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="79" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="69" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="27" column="23" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="96" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="98" column="19" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="110" column="9" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="97" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="84" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="74" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="60" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="73" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="124" column="31" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="94" column="38" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="112" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="145" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="98" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="118" column="14" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="117" column="43" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="149" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="133" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="138" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="136" column="61" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="154" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="137" column="32" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="159" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="6" column="46" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="141" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="162" column="101" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="161" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="61" column="20" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="188" column="77" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="254" column="8" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="239" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="217" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="163" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="169" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="174" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="177" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="180" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="202" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="196" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="165" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="171" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="176" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="179" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="266" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="257" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="248" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="228" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="190" column="30" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="226" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="236" column="8" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="229" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="222" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="242" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="214" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="233" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="246" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="241" column="37" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="237" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="224" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="212" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="183" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="206" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="178" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="223" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="207" column="7" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="205" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="182" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="106" column="28" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="143" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="146" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHJlbW92ZWRDb3VudCA9IGRhdGFzZXQxLmV4Y2VwdChkYXRhc2V0MikuY291bnQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>HEY</text>
+        <text>SparkResult</text>
       </register>
       <register name="/" type="4">
         <text>metrics</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PSBIRVkgPT09Iik7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBpbnQgbWluU2l6ZSA9IE1hdGgubWluKHJvdzEuc2l6ZSgpLCByb3cyLnNpemUoKSk7CiAgICAgICAgaW50IGRpZmYgPSBNYXRoLmFicyhyb3cxLnNpemUoKSAtIHJvdzIuc2l6ZSgpKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1pblNpemU7IGkrKykgewogICAgICAgICAgICBPYmplY3QgdmFsdWUxID0gcm93MS5nZXQoaSk7CiAgICAgICAgICAgIE9iamVjdCB2YWx1ZTIgPSByb3cyLmdldChpKTsKICAgICAgICAgICAgaWYgKCF2YWx1ZTEuZXF1YWxzKHZhbHVlMikpIHsKICAgICAgICAgICAgICAgIGRpZmYrKzsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHJlbW92ZWRDb3VudCA9IGRhdGFzZXQxLmV4Y2VwdChkYXRhc2V0MikuY291bnQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PSBCWUUgPT09Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGNoYW5nZWRDb3VudCA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9pbmVkKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHVuY2hhbmdlZENvdW50ID0gZGF0YXNldDEuaW50ZXJzZWN0KGRhdGFzZXQyKS5jb3VudCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PSBIRVkgPT09Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm93Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqb2luZWQuZmlsdGVyKHJvdyAtPiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm93LmdldEFzKCIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
