@@ -71,12 +71,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" timestamp="1563965287645">
-        <mark key="'" line="77" column="19" />
-        <mark key="[" line="82" column="20" />
-        <mark key="]" line="86" column="19" />
-        <mark key="." line="86" column="19" />
-        <mark key="^" line="86" column="19" />
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" timestamp="1563970316068">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="113" column="37" />
+        <mark key="." line="113" column="37" />
+        <mark key="^" line="113" column="37" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/user.html.eex" timestamp="1563658995233">
         <mark key="[" line="0" column="1" />
@@ -196,11 +196,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkManagerBuilder.java" timestamp="1563895733034">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563967770715">
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" timestamp="1563969888198">
         <mark key="'" line="97" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="76" column="56" />
+        <mark key="]" line="76" column="57" />
+        <mark key="." line="76" column="57" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/show.html.eex" timestamp="1563659009050">
         <mark key="[" line="2" column="0" />
@@ -400,34 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="120" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="138" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="146" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="152" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="158" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="210" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="198" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="186" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="174" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark/6.100.0/9b0a56e58319095111253a3a13edbb6562fbdf34/foundry-spark-6.100.0-sources.jar!/com/palantir/foundry/spark/FoundrySparkManagerBuilderImpl.java" />
-      <jump line="31" column="17" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" />
-      <jump line="98" column="34" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
-      <jump line="142" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
-      <jump line="139" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/jobs/JobCreator.java" />
-      <jump line="41" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkDataset.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkDataset.java" />
       <jump line="125" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkDataset.java" />
       <jump line="123" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkDataset.java" />
       <jump line="113" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.palantir.foundry/foundry-spark-api/6.100.0/b698ffbe0da93bd442fc01f1b1c3541b23fe8913/foundry-spark-api-6.100.0-sources.jar!/com/palantir/foundry/spark/api/FoundrySparkDataset.java" />
@@ -457,7 +429,6 @@
       <jump line="154" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
       <jump line="73" column="8" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
       <jump line="22" column="23" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
       <jump line="83" column="8" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
       <jump line="77" column="19" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
       <jump line="78" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
@@ -500,13 +471,42 @@
       <jump line="91" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
       <jump line="111" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
       <jump line="97" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffServer.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="80" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="91" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="79" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="27" column="23" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="96" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="98" column="19" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="110" column="9" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="44" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5mb3VuZHJ5LnNjaGVtYXMuYXBpLnR5cGVzLkZvdW5kcnlGaWVsZFNjaGVtYTsK</text>
+      <register name="&quot;" type="4">
+        <text>diffDataset</text>
       </register>
       <register name="-" type="4">
-        <text>sericeClass</text>
+        <text>diffDataset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhc2V0XD4=</text>
@@ -515,34 +515,34 @@
         <text encoding="base64">TGlzdDxPYmplY3Q+IHZhbHVlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHJvdy5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgT2JqZWN0IHZhbHVlID0gcm93LmdldChpKTsKICAgICAgICAgICAgICAgIHZhbHVlcy5hZGQodmFsdWUpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5mb3VuZHJ5LnNjaGVtYXMuYXBpLnR5cGVzLkZvdW5kcnlGaWVsZFNjaGVtYTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci50b2tlbnMuYXV0aC5CZWFyZXJUb2tlbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5yaS5SZXNvdXJjZUlkZW50aWZpZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5mb3VuZHJ5LnNwYXJrLmFwaS5TcGFya0F1dGhvcml6YXRpb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5mb3VuZHJ5LnNjaGVtYXMuYXBpLnR5cGVzLkZvdW5kcnlGaWVsZFNjaGVtYTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5mb3VuZHJ5LnNwYXJrLmFwaS5EYXRhc2V0UmVhZFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci50b2tlbnMuYXV0aC5CZWFyZXJUb2tlbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5mb3VuZHJ5LmtleXNlcnZpY2UuYXBpLlRlbXBvcmFyeUNyZWRlbnRpYWxzQXV0aFRva2VuOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5yaS5SZXNvdXJjZUlkZW50aWZpZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5jb25qdXJlLmphdmEuYXBpLmNvbmZpZy5zZXJ2aWNlLlVzZXJBZ2VudHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5mb3VuZHJ5LnNwYXJrLmFwaS5TcGFya0F1dGhvcml6YXRpb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jbGllbnRGYWN0b3J5KChzZXJ2aWNlQ2xhc3MsIHNlcnZpY2VOYW1lKSAtPiB3Yy5jb25qdXJlQ2xpZW50cygpLmNsaWVudChzZXJ2aWNlQ2xhc3MsIHNlcnZpY2VOYW1lKS5nZXQoKSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5mb3VuZHJ5LnNwYXJrLmFwaS5EYXRhc2V0UmVhZFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYWxhbnRpci5mb3VuZHJ5LmtleXNlcnZpY2UuYXBpLlRlbXBvcmFyeUNyZWRlbnRpYWxzQXV0aFRva2VuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
