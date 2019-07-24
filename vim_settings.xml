@@ -59,12 +59,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" timestamp="1563974855478">
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff-api/src/main/conjure/dataset-diff-api.yml" timestamp="1563975727955">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="141" column="24" />
-        <mark key="]" line="143" column="19" />
-        <mark key="." line="143" column="19" />
-        <mark key="^" line="143" column="19" />
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/index.html.eex" timestamp="1563659037713">
         <mark key="'" line="16" column="74" />
@@ -181,7 +181,7 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/config/dev.exs" timestamp="1556300459296">
         <mark key="'" line="11" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563894959963">
+      <file name="/Dummy.txt" timestamp="1563976463481">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/transforms-worker/transforms-worker/src/main/java/com/palantir/transforms/worker/store/SparkModuleJobStore.java" timestamp="1563899517022">
@@ -202,12 +202,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" timestamp="1563974948961">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="132" column="39" />
-        <mark key="]" line="116" column="107" />
-        <mark key="." line="116" column="107" />
-        <mark key="^" line="116" column="107" />
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" timestamp="1563976940242">
+        <mark key="'" line="6" column="46" />
+        <mark key="[" line="138" column="42" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" timestamp="1562621031891">
         <mark key="'" line="0" column="10" />
@@ -246,11 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="36" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="159" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
-      <jump line="484" column="94" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
-      <jump line="532" column="77" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
-      <jump line="3031" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
       <jump line="4427" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
       <jump line="1" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
       <jump line="4" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/3.0.0-palantir.31/cae347a70a0de81f2235c475846b1d92b48819de/spark-sql_2.11-3.0.0-palantir.31.jar!/org/apache/spark/sql/Dataset.class" />
@@ -335,7 +329,6 @@
       <jump line="124" column="31" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="111" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="112" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
-      <jump line="137" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="105" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="145" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="98" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
@@ -346,49 +339,55 @@
       <jump line="113" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="133" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
       <jump line="138" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="136" column="61" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="154" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="137" column="32" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="159" column="0" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
+      <jump line="6" column="46" filename="$USER_HOME$/Code/dataset-diff/dataset-diff/src/main/java/com/palantir/datasetdiff/DatasetDiffResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya2VyczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>unchangedCount</text>
+        <text>HEY</text>
       </register>
       <register name="/" type="4">
         <text>metrics</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGb3VuZHJ5U3BhcmtEYXRhc2V0IGJyYW5jaDFGb3VuZHJ5U3BhcmtEYXRhc2V0ID0gc3BhcmtNYW5hZ2VyLnJlYWREYXRhc2V0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgRGF0YXNldFJlYWRSZXF1ZXN0LmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZGF0YXNldFJpZChyaWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5icmFuY2hJZChicmFuY2gxKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PSBIRVkgPT09Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya2VyczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIFNhZmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PSBCWUUgPT09Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya2VyczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9pbmVkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PSBIRVkgPT09Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb25nIHJlbW92ZWQgPSBkYXRhc2V0QnJhbmNoMS5leGNlcHQoZGF0YXNldEJyYW5jaDIpLmNvdW50KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb25nIGFkZGVkID0gZGF0YXNldEJyYW5jaDIuZXhjZXB0KGRhdGFzZXRCcmFuY2gxKS5jb3VudCgpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm93Lgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqb2luZWQuZmlsdGVyKHJvdyAtPiB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm93LmdldEFzKCIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
