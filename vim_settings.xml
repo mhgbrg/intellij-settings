@@ -164,12 +164,12 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" timestamp="1564086888495">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="51" />
-        <mark key="." line="25" column="51" />
-        <mark key="^" line="25" column="51" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" timestamp="1564089272837">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/user.html.eex" timestamp="1563658995233">
         <mark key="[" line="0" column="1" />
@@ -356,11 +356,6 @@
       <jump line="11" column="6" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
       <jump line="7" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" />
-      <jump line="32" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="5" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="0" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
       <jump line="4" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" />
@@ -404,10 +399,15 @@
       <jump line="27" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" />
       <jump line="24" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" />
       <jump line="16" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHJlbmRlcihjb25uLCAiaW5kZXguaHRtbCIsIHVzZXJzOiB1c2VycykK</text>
       </register>
       <register name="-" type="4">
         <text>username</text>
@@ -419,34 +419,34 @@
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgICAgPCU9IHRleHRfaW5wdXQgZiwgOnVzZXJuYW1lLCBwbGFjZWhvbGRlcjogIlVzZXJuYW1lIiAlPgogICAgICAgIDwlPSBlcnJvcl90YWcgZiwgOnVzZXJuYW1lICU+CiAgICA8L2Rpdj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHJlbmRlcihjb25uLCAiaW5kZXguaHRtbCIsIHVzZXJzOiB1c2VycykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXyAtPiBSdW1ibC5BY2NvdW50cy5nZXRfdXNlcih1c2VyX2lkKQo=</text>
+        <text encoding="base64">ICAgIHVzZXJzID0gQWNjb3VudHMubGlzdF91c2VycygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmlsIC0+IG5pbAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBjYXNlIHVzZXJfaWQgZG8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSB1c2VyX2lkICYmIFJ1bWJsLkFjY291bnRzLmdldF91c2VyKHVzZXJfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmlsIC0+IAo=</text>
+        <text encoding="base64">ICAgICAgXyAtPiBSdW1ibC5BY2NvdW50cy5nZXRfdXNlcih1c2VyX2lkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBjYXNlIHVzZXJfaWQgZG8K</text>
+        <text encoding="base64">ICAgICAgbmlsIC0+IG5pbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSB1c2VyX2lkID09IG5pbCAK</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBjYXNlIHVzZXJfaWQgZG8K</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
