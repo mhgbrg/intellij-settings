@@ -66,12 +66,12 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" timestamp="1563661035435">
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/router.ex" timestamp="1564088626727">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="19" column="75" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/code/hndaily/web/webpack.config.js" timestamp="1560349681924">
         <mark key="'" line="16" column="0" />
@@ -151,12 +151,6 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/page/index.html.eex" timestamp="1563657254294">
-        <mark key="[" line="1" column="65" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts.ex" timestamp="1564086688953">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="32" column="5" />
@@ -210,6 +204,12 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/phoenix/lib/phoenix/controller.ex" timestamp="1563659139658">
         <mark key="'" line="748" column="0" />
       </file>
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/auth.ex" timestamp="1564088529229">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="69" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/user.ex" timestamp="1564086344367">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="33" column="0" />
@@ -226,12 +226,6 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl/accounts/credential.ex" timestamp="1562620756136">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
-        <mark key="^" line="29" column="4" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web.ex" timestamp="1556360886362">
         <mark key="'" line="0" column="0" />
@@ -412,8 +406,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>username</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="-" type="4">
         <text>username</text>
@@ -425,34 +419,34 @@
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgICAgPCU9IHRleHRfaW5wdXQgZiwgOnVzZXJuYW1lLCBwbGFjZWhvbGRlcjogIlVzZXJuYW1lIiAlPgogICAgICAgIDwlPSBlcnJvcl90YWcgZiwgOnVzZXJuYW1lICU+CiAgICA8L2Rpdj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXyAtPiBSdW1ibC5BY2NvdW50cy5nZXRfdXNlcih1c2VyX2lkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgbmlsIC0+IG5pbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBjYXNlIHVzZXJfaWQgZG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgIHVzZXIgPSB1c2VyX2lkICYmIFJ1bWJsLkFjY291bnRzLmdldF91c2VyKHVzZXJfaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgbmlsIC0+IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBjYXNlIHVzZXJfaWQgZG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbm4K</text>
+        <text encoding="base64">ICAgIHVzZXIgPSB1c2VyX2lkID09IG5pbCAK</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
