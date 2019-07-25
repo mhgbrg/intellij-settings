@@ -224,12 +224,12 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" timestamp="1563658540335">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" timestamp="1563891962959">
+      <file name="$USER_HOME$/Code/dataset-diff/dataset-diff/deployment/configuration.yml" timestamp="1564063927444">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="24" />
         <mark key="^" line="56" column="40" />
-        <mark key="." line="101" column="0" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Code/dataset-diff/versions.props" timestamp="1563891909527">
         <mark key="[" line="7" column="0" />
