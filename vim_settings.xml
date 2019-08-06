@@ -164,8 +164,8 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" timestamp="1564089272837">
-        <mark key="'" line="16" column="0" />
+      <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" timestamp="1565121181883">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="13" column="47" />
@@ -304,9 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
-      <jump line="46" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
       <jump line="40" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
       <jump line="37" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
       <jump line="34" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web.ex" />
@@ -404,6 +401,9 @@
       <jump line="20" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="15" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
       <jump line="10" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
+      <jump line="35" column="47" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/controllers/user_controller.ex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
