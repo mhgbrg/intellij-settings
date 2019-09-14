@@ -19,12 +19,12 @@
         <mark key="^" line="53" column="8" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/keyval/main.go" timestamp="1568389911698">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="88" column="5" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/code/einride-interview/keyval/main.go" timestamp="1568491288054">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="120" column="14" />
+        <mark key="]" line="120" column="23" />
+        <mark key="^" line="120" column="23" />
+        <mark key="." line="120" column="23" />
       </file>
       <file name="$USER_HOME$/code/hndaily/Makefile" timestamp="1562446950314">
         <mark key="'" line="10" column="0" />
@@ -33,12 +33,12 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/Makefile" timestamp="1568387752517">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="13" />
+      <file name="$USER_HOME$/code/einride-interview/Makefile" timestamp="1568489926884">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/errors.go" timestamp="1553183973192">
         <mark key="[" line="15" column="1" />
@@ -243,11 +243,11 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/keyval/go.mod" timestamp="1568384748364">
-        <mark key="[" line="0" column="53" />
-        <mark key="]" line="0" column="53" />
-        <mark key="^" line="0" column="51" />
-        <mark key="." line="0" column="53" />
+      <file name="$USER_HOME$/code/einride-interview/keyval/go.mod" timestamp="1568488038888">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web.ex" timestamp="1556360886362">
         <mark key="'" line="0" column="0" />
@@ -267,7 +267,7 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/endpoint.ex" timestamp="1564087576771">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560174037881">
+      <file name="/Dummy.txt" timestamp="1568485573561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/hndaily/web/static/css/global.css" timestamp="1562447033443">
@@ -301,6 +301,13 @@
       </file>
       <file name="/usr/local/Cellar/go/1.13/libexec/src/net/http/server.go" timestamp="1568385404727">
         <mark key="'" line="3077" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/einride-interview/keyval/logic.go" timestamp="1568491002153">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="16" column="63" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/code/hndaily/.envrc" timestamp="1554640348246">
         <mark key="[" line="2" column="21" />
@@ -336,118 +343,152 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="106" column="5" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="114" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="128" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="137" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="170" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="182" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="190" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="199" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="206" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="218" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="237" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="243" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="250" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="255" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="275" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="299" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="284" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="290" column="0" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/request.go" />
-      <jump line="25" column="31" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="10" column="36" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="39" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="9" column="59" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="95" column="78" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="107" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="94" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="115" column="71" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="128" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="113" column="72" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="99" column="13" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="123" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="120" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="105" column="49" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="101" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="118" column="42" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="102" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="103" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
       <jump line="24" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="142" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="138" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="119" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="65" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
       <jump line="34" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="23" column="25" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
       <jump line="18" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
       <jump line="15" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="60" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="44" column="29" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="32" column="18" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="63" column="12" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="149" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="145" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="127" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="112" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="106" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="93" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="87" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="82" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="45" column="21" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="104" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="110" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="125" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="143" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="147" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
       <jump line="11" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="47" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="81" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="79" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="85" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="91" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="97" column="27" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="61" column="37" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="84" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
       <jump line="74" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
       <jump line="68" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="48" column="8" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="80" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="51" column="33" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="84" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="75" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="41" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="46" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="53" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="69" column="20" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="72" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="78" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
-      <jump line="87" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="50" column="5" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="75" column="5" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="86" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="98" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="111" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="117" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="132" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="150" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="156" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="155" column="8" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="154" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="151" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="133" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
+      <jump line="13" column="16" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="16" column="61" filename="$USER_HOME$/code/einride-interview/keyval/logic.go" />
+      <jump line="3" column="32" filename="$USER_HOME$/code/einride-interview/keyval/logic.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/einride-interview/keyval/logic.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/einride-interview/keyval/logic.go" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/einride-interview/keyval/logic.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>numberOfKeys</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>numberOfKeys</text>
       </register>
       <register name="/" type="4">
         <text>DefaultServeMux</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CWlmIGxlbihyLkZvcm0pID09IDAgewoJCWh0dHAuRXJyb3IodywKCQkJZm10LlNwcmludGYoIk5vIGtleS12YWx1ZXMgc3BlY2lmaWVkLiBVc2UgJXM/a2V5PXZhbHVlIiwgZ2V0VXJsKSwKCQkJaHR0cC5TdGF0dXNCYWRSZXF1ZXN0KQoJfQ==</text>
+        <text>func (service *KeyValServiceImpl) Get(key string) (string, bool) {
+	val, ok := storage[key]
+	return val, ok
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CW51bWJlck9mS2V5cyA6PSBsZW4oci5Gb3JtKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXZhbCwgb2sgOj0gc3RvcmFnZVtrZXldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiB2YWwsIG9rCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CglpZiBsZW4oci5Gb3JtKSAhPSAxIHsKCQlodHRwLkVycm9yKAoJCQl3LAoJCQlmbXQuU3ByaW50ZigiIGtleS12YWx1ZXMgc3BlY2lmaWVkLiBVc2UgJXM/a2V5PXZhbHVlIiwgZ2V0VXJsKSwKCQkJaHR0cC5TdGF0dXNCYWRSZXF1ZXN0KQoJfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhbCwgb2sgOj0gc2VydmljZS5zdG9yYWdlW2tleV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gLSBUaGluayBhYm91dCBlcnJvciBoYW5kbGluZy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaW5vdGlmeXdhaXQK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbG9nLlByaW50ZigiTm8gdmFsdWUgZm9yIGtleSAlc1xuIiwgaykK</text>
+        <text encoding="base64">CW1lc3NhZ2Ugc3RyaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dHlwZSAgc3RydWN0IHsK</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
