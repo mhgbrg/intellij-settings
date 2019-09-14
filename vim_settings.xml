@@ -19,12 +19,12 @@
         <mark key="^" line="53" column="8" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/keyval/main.go" timestamp="1568491288054">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="120" column="14" />
-        <mark key="]" line="120" column="23" />
-        <mark key="^" line="120" column="23" />
-        <mark key="." line="120" column="23" />
+      <file name="$USER_HOME$/code/einride-interview/keyval/main.go" timestamp="1568491897308">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/hndaily/Makefile" timestamp="1562446950314">
         <mark key="'" line="10" column="0" />
@@ -445,8 +445,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/code/einride-interview/keyval/logic.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>numberOfKeys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gLSBEZWNvdXBsZSBsb2dpYyBhbmQgc3RvcmFnZQo=</text>
       </register>
       <register name="-" type="4">
         <text>numberOfKeys</text>
@@ -461,34 +461,34 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW51bWJlck9mS2V5cyA6PSBsZW4oci5Gb3JtKQo=</text>
+        <text encoding="base64">Ly8gLSBEZWNvdXBsZSBsb2dpYyBhbmQgc3RvcmFnZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCwgb2sgOj0gc3RvcmFnZVtrZXldCg==</text>
+        <text encoding="base64">Ly8gLSBEZWNvdXBsZSBsb2dpYyBhbmQgdHJhbnNtaXNzaW9uIHByb3RvY29sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXJldHVybiB2YWwsIG9rCg==</text>
+        <text encoding="base64">CW51bWJlck9mS2V5cyA6PSBsZW4oci5Gb3JtKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXZhbCwgb2sgOj0gc3RvcmFnZVtrZXldCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhbCwgb2sgOj0gc2VydmljZS5zdG9yYWdlW2tleV0K</text>
+        <text encoding="base64">CXJldHVybiB2YWwsIG9rCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CXZhbCwgb2sgOj0gc2VydmljZS5zdG9yYWdlW2tleV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW1lc3NhZ2Ugc3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwZSAgc3RydWN0IHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
