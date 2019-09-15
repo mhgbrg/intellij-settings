@@ -215,10 +215,11 @@
       <file name="$USER_HOME$/code/hndaily/pkg/web/templates.go" timestamp="1560348949293">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" timestamp="1568534421227">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" timestamp="1568535764350">
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="18" column="13" />
+        <mark key="^" line="18" column="13" />
+        <mark key="." line="18" column="13" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/endpoint.ex" timestamp="1556311672182">
         <mark key="'" line="1" column="16" />
@@ -468,47 +469,47 @@
       <jump line="23" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>fmt.Sprintf(&quot;%s/get?foo=bar&quot;, server.URL)</text>
       </register>
       <register name="-" type="4">
-        <text>URL</text>
+        <text>Body</text>
       </register>
       <register name="/" type="4">
         <text>DefaultServeMux</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CWh0dHAuSGFuZGxlRnVuYyhnZXRVUkwsIGhhbmRsZUdldCkKCWh0dHAuSGFuZGxlRnVuYyhzZXRVUkwsIGhhbmRsZVNldCk=</text>
+        <text>fmt.Sprintf(&quot;%s/get?foo=bar&quot;, server.URL)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0LkVycm9yKGVycikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXQuRXJyb3Ioc2VydmVyLlVSTCkK</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWh0dHAuR2V0KHNlcnZlci5VUkwpCg==</text>
+        <text encoding="base64">CV8sIGVyciA6PSByZXNwLkJvZHkuUmVhZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXQuRXJyb3IoImhlaiIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXJlc3AuU3RhdHVzQ29kZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CWh0dHAuSGFuZGxlRnVuYyhzZXRVUkwsIGhhbmRsZVNldCkK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWh0dHAuSGFuZGxlRnVuYyhnZXRVUkwsIGhhbmRsZUdldCkK</text>
+        <text encoding="base64">CQl0LkVycm9yZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW11eAo=</text>
+        <text encoding="base64">CWlmIHJlc3AuU3RhdHVzQ29kZSAhPSAyMDQgewo=</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
