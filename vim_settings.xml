@@ -39,12 +39,12 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/Makefile" timestamp="1568533122676">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+      <file name="$USER_HOME$/code/einride-interview/Makefile" timestamp="1568541702783">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/errors.go" timestamp="1553183973192">
         <mark key="[" line="15" column="1" />
@@ -179,6 +179,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/code/einride-interview/go.mod" timestamp="1568541412307">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/code/hndaily/web/static/js/digest.js" timestamp="1562447015621">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="0" column="0" />
@@ -215,10 +220,10 @@
       <file name="$USER_HOME$/code/hndaily/pkg/web/templates.go" timestamp="1560348949293">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" timestamp="1568537828712">
+      <file name="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" timestamp="1568541348731">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="27" column="1" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="1" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/endpoint.ex" timestamp="1556311672182">
@@ -291,7 +296,7 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568534153799">
+      <file name="/Dummy.txt" timestamp="1568541719392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/hndaily/web/static/css/global.css" timestamp="1562447033443">
@@ -424,10 +429,6 @@
       <jump line="127" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
       <jump line="109" column="0" filename="$USER_HOME$/code/einride-interview/keyval/main.go" />
       <jump line="0" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
-      <jump line="25" column="13" filename="$USER_HOME$/code/einride-interview/Makefile" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
       <jump line="9" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
       <jump line="5" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
       <jump line="10" column="26" filename="$USER_HOME$/code/einride-interview/Makefile" />
@@ -460,20 +461,24 @@
       <jump line="26" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
       <jump line="21" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
       <jump line="12" column="11" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
       <jump line="45" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
       <jump line="40" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
       <jump line="28" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
       <jump line="27" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
       <jump line="22" column="0" filename="$USER_HOME$/code/einride-interview/keyval/http/http_test.go" />
+      <jump line="25" column="20" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgpmdW5jIFRlc3RHZXQodCAqdGVzdGluZy5UKSB7CgloYW5kbGVyIDo9IGNyZWF0ZUhhbmRsZXIoKQoJc2VydmVyIDo9IGh0dHB0ZXN0Lk5ld1NlcnZlcihoYW5kbGVyKQoJZGVmZXIgc2VydmVyLkNsb3NlKCkKCgl1cmwgOj0gZm10LlNwcmludGYoIiVzL2dldD9rZXk9Zm9vIiwgc2VydmVyLlVSTCkKCXJlcywgZXJyIDo9IGh0dHAuR2V0KHVybCkKCWlmIGVyciAhPSBuaWwgewoJCXQuRXJyb3IoZXJyKQoJfQoKCWRlZmVyIHJlcy5Cb2R5LkNsb3NlKCkKCWJvZHksIGVyciA6PSBpb3V0aWwuUmVhZEFsbChyZXMuQm9keSkKCWFzc2VydC5FcXVhbCh0LCBzdHJpbmcoYm9keSksICIiKQoJYXNzZXJ0LkVxdWFsKHQsIHJlcy5TdGF0dXNDb2RlLCAyMDQpCn0=</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>EmptyKey</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>DefaultServeMux</text>
@@ -481,32 +486,32 @@
       <register name="0" type="4">
         <text encoding="base64">CmZ1bmMgVGVzdEdldEVtcHR5S2V5KHQgKnRlc3RpbmcuVCkgewoJaGFuZGxlciA6PSBjcmVhdGVIYW5kbGVyKCkKCXNlcnZlciA6PSBodHRwdGVzdC5OZXdTZXJ2ZXIoaGFuZGxlcikKCWRlZmVyIHNlcnZlci5DbG9zZSgpCgoJdXJsIDo9IGZtdC5TcHJpbnRmKCIlcy9nZXQ/a2V5PWZvbyIsIHNlcnZlci5VUkwpCglyZXMsIGVyciA6PSBodHRwLkdldCh1cmwpCglpZiBlcnIgIT0gbmlsIHsKCQl0LkVycm9yKGVycikKCX0KCglkZWZlciByZXMuQm9keS5DbG9zZSgpCglib2R5LCBlcnIgOj0gaW91dGlsLlJlYWRBbGwocmVzLkJvZHkpCglhc3NlcnQuRXF1YWwodCwgc3RyaW5nKGJvZHkpLCAiIikKCWFzc2VydC5FcXVhbCh0LCByZXMuU3RhdHVzQ29kZSwgMjA0KQp9</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgpmdW5jIFRlc3RHZXQodCAqdGVzdGluZy5UKSB7CgloYW5kbGVyIDo9IGNyZWF0ZUhhbmRsZXIoKQoJc2VydmVyIDo9IGh0dHB0ZXN0Lk5ld1NlcnZlcihoYW5kbGVyKQoJZGVmZXIgc2VydmVyLkNsb3NlKCkKCgl1cmwgOj0gZm10LlNwcmludGYoIiVzL2dldD9rZXk9Zm9vIiwgc2VydmVyLlVSTCkKCXJlcywgZXJyIDo9IGh0dHAuR2V0KHVybCkKCWlmIGVyciAhPSBuaWwgewoJCXQuRXJyb3IoZXJyKQoJfQoKCWRlZmVyIHJlcy5Cb2R5LkNsb3NlKCkKCWJvZHksIGVyciA6PSBpb3V0aWwuUmVhZEFsbChyZXMuQm9keSkKCWFzc2VydC5FcXVhbCh0LCBzdHJpbmcoYm9keSksICIiKQoJYXNzZXJ0LkVxdWFsKHQsIHJlcy5TdGF0dXNDb2RlLCAyMDQpCn0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RElSID0gLi9rZXl2YWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlvCg==</text>
+        <text encoding="base64">RElSID0gLi9rZXl2YWwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">CgpmdW5jIFRlc3RHZXQodCAqdGVzdGluZy5UKSB7CgloYW5kbGVyIDo9IGNyZWF0ZUhhbmRsZXIoKQoJc2VydmVyIDo9IGh0dHB0ZXN0Lk5ld1NlcnZlcihoYW5kbGVyKQoJZGVmZXIgc2VydmVyLkNsb3NlKCkKCgl1cmwgOj0gZm10LlNwcmludGYoIiVzL2dldD9rZXk9Zm9vIiwgc2VydmVyLlVSTCkKCXJlcywgZXJyIDo9IGh0dHAuR2V0KHVybCkKCWlmIGVyciAhPSBuaWwgewoJCXQuRXJyb3IoZXJyKQoJfQoKCWRlZmVyIHJlcy5Cb2R5LkNsb3NlKCkKCWJvZHksIGVyciA6PSBpb3V0aWwuUmVhZEFsbChyZXMuQm9keSkKCWFzc2VydC5FcXVhbCh0LCBzdHJpbmcoYm9keSksICIiKQoJYXNzZXJ0LkVxdWFsKHQsIHJlcy5TdGF0dXNDb2RlLCAyMDQpCn0=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgkvL3JlcSwgZXJyIDo9IGh0dHAuTmV3UmVxdWVzdCgiR0VUIiwgZm10LlNwcmludGYoIiVzL2dldCIsIHNlcnZlci5VUkwpLCBuaWwpCgkvL2lmIGVyciAhPSBuaWwgewoJLy8JdC5FcnJvcihlcnIpCgkvL30KCS8vCgkvL3EgOj0gcmVxLlVSTC5RdWVyeSgpCgkvL3EuQWRkKCJmb28iLCAiYmFyIikKCS8vcmVxLlVSTC5SYXdRdWVyeSA9IHEuRW5jb2RlKCkKCS8vdC5Mb2cocmVxLlVSTC5TdHJpbmcoKSkKCgkvL3JlcywgZXJyIDo9IGh0dHAuRGVmYXVsdENsaWVudC5EbyhyZXEp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50KHQpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlvCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
