@@ -39,12 +39,12 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/Makefile" timestamp="1568665240632">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="33" />
-        <mark key="^" line="23" column="33" />
-        <mark key="." line="23" column="33" />
+      <file name="$USER_HOME$/code/einride-interview/Makefile" timestamp="1568716513544">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/errors.go" timestamp="1553183973192">
         <mark key="[" line="15" column="1" />
@@ -134,7 +134,8 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/deps/ecto/lib/ecto/changeset.ex" timestamp="1564086259718">
         <mark key="'" line="410" column="0" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/http/http_test.go" timestamp="1568579395463">
+      <file name="$USER_HOME$/code/einride-interview/http/http_test.go" timestamp="1568716633578">
+        <mark key="'" line="68" column="0" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -259,12 +260,11 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/grpc/grpc.go" timestamp="1568665731678">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="19" />
+      <file name="$USER_HOME$/code/einride-interview/grpc/grpc.go" timestamp="1568717644229">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="29" column="4" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1568386298091">
         <mark key="[" line="0" column="0" />
@@ -381,14 +381,18 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/.gitignore" timestamp="1568579693504">
+      <file name="$USER_HOME$/code/einride-interview/.gitignore" timestamp="1568716562120">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" timestamp="1568665720423">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" timestamp="1568719923559">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/new.html.eex" timestamp="1564086940881">
         <mark key="'" line="23" column="0" />
@@ -412,149 +416,149 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="22" column="31" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="56" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="32" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="39" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="14" column="10" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="38" column="15" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="40" column="20" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="70" column="19" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="84" column="15" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="137" column="12" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="138" column="24" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="33" column="37" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="34" column="37" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="31" column="23" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="21" column="5" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="31" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="30" column="4" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="36" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="53" column="29" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="65" column="4" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="23" column="4" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="35" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="48" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="47" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="44" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="57" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="62" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="78" column="47" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/einride-interview/grpc/keyval.proto" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="20" column="36" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="9" column="8" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="22" column="19" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="35" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="39" column="19" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="23" column="59" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="44" column="16" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="46" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="48" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="55" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="73" column="4" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="53" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="60" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
-      <jump line="70" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
       <jump line="74" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
       <jump line="24" column="15" filename="$USER_HOME$/code/einride-interview/Makefile" />
       <jump line="23" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="25" column="53" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="42" column="26" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="43" column="20" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="53" column="4" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="34" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="19" column="45" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="47" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="50" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="72" column="4" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="65" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="58" column="4" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="56" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="59" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="69" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="82" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="79" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="77" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="34" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="92" column="2" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="81" column="32" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="84" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="88" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="112" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="111" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="39" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="45" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="63" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="52" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="101" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="98" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="96" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="74" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="95" column="26" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="93" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="86" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
+      <jump line="83" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HTTP</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
-        <text>HTTP</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWxvZy5QcmludGYoIkhUVFAgc2VydmVyIGxpc3RlbmluZyBvbiBwb3J0ICVkXG4iLCBwb3J0KQo=</text>
+        <text encoding="base64">CWFzc2VydC5OaWxFcnJvcih0LCBlcnIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxvZy5QcmludGYoIkwiKQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHN0cmluZyhwb3J0KSkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIpCgl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKHBvcnQpCg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGVsc2UgaWYgdmFsID09ICIiIHsKCQkKCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWluLksK</text>
+        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbFN0ciA6Cg==</text>
+        <text encoding="base64">CWFzc2VydC5EZWVwRXF1YWwodCwgcmVzMSwgJnByb3RvLlNldFJlc3BvbnNle30pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlvawo=</text>
+        <text encoding="base64">CWFzc2VydC5OaWxFcnJvcih0LCBlcnIxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
