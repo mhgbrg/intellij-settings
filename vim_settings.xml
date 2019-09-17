@@ -39,12 +39,12 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/Makefile" timestamp="1568579598452">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/code/einride-interview/Makefile" timestamp="1568665240632">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="33" />
+        <mark key="^" line="23" column="33" />
+        <mark key="." line="23" column="33" />
       </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/errors.go" timestamp="1553183973192">
         <mark key="[" line="15" column="1" />
@@ -67,11 +67,11 @@
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/deps/plug/lib/plug/logger.ex" timestamp="1556291617292">
         <mark key="'" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/.envrc" timestamp="1568387770260">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/code/einride-interview/.envrc" timestamp="1568665604274">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/controllers/hello_controller.ex" timestamp="1556258263091">
         <mark key="[" line="5" column="5" />
@@ -106,12 +106,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/http/http.go" timestamp="1568579489099">
-        <mark key="'" line="31" column="23" />
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="56" />
-        <mark key="." line="53" column="56" />
-        <mark key="^" line="53" column="56" />
+      <file name="$USER_HOME$/code/einride-interview/http/http.go" timestamp="1568665727904">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="58" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web/views/hello_view.ex" timestamp="1556257915772">
         <mark key="[" line="0" column="0" />
@@ -196,9 +196,9 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/code/einride-interview/go.mod" timestamp="1568541412307">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="46" />
+      <file name="$USER_HOME$/code/einride-interview/go.mod" timestamp="1568664298399">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="46" />
       </file>
       <file name="$USER_HOME$/code/hndaily/web/static/js/digest.js" timestamp="1562447015621">
@@ -259,6 +259,13 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
+      <file name="$USER_HOME$/code/einride-interview/grpc/grpc.go" timestamp="1568665731678">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+      </file>
       <file name="vim_settings.xml" timestamp="1568386298091">
         <mark key="[" line="0" column="0" />
       </file>
@@ -283,6 +290,12 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
+      <file name="$USER_HOME$/code/einride-interview/api/keyval.proto" timestamp="1568664895116">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+      </file>
       <file name="$USER_HOME$/code/einride-interview/keyval/go.mod" timestamp="1568488038888">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="6" />
@@ -291,6 +304,13 @@
       </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/hello/lib/hello_web.ex" timestamp="1556360886362">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/einride-interview/grpc/keyval.proto" timestamp="1568662946878">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/a.sql" timestamp="1560174037839">
         <mark key="[" line="0" column="0" />
@@ -313,7 +333,7 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568576780946">
+      <file name="/Dummy.txt" timestamp="1568665698355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/hndaily/web/static/css/global.css" timestamp="1562447033443">
@@ -367,6 +387,9 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/code/einride-interview/grpc/grpc_test.go" timestamp="1568665720423">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/phoenix_tutorial/rumbl/lib/rumbl_web/templates/user/new.html.eex" timestamp="1564086940881">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="19" column="26" />
@@ -389,50 +412,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="38" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/client.go" />
-      <jump line="391" column="68" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/client.go" />
-      <jump line="397" column="13" filename="/usr/local/Cellar/go/1.13/libexec/src/net/http/client.go" />
-      <jump line="62" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="77" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="97" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="39" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="42" column="8" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="45" column="27" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="75" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="53" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="69" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="26" column="43" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="68" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="101" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="95" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="98" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="104" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="118" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="136" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="142" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="86" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="140" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="134" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="116" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="102" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="96" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="82" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
       <jump line="30" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
       <jump line="21" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
       <jump line="22" column="31" filename="$USER_HOME$/code/einride-interview/http/http.go" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
       <jump line="56" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
       <jump line="45" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
       <jump line="22" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
@@ -489,55 +471,93 @@
       <jump line="76" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
       <jump line="74" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
       <jump line="71" column="0" filename="$USER_HOME$/code/einride-interview/http/http_test.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/einride-interview/grpc/keyval.proto" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/einride-interview/http/http.go" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="20" column="36" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="9" column="8" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="22" column="19" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="39" column="19" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="23" column="59" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="44" column="16" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="73" column="4" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="74" column="0" filename="$USER_HOME$/code/einride-interview/grpc/grpc.go" />
+      <jump line="24" column="15" filename="$USER_HOME$/code/einride-interview/Makefile" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/einride-interview/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IWh0dHAvCg==</text>
+      <register name="&quot;" type="4">
+        <text>HTTP</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCksIA==</text>
+        <text>HTTP</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CWFzc2VydC5FcXVhbCh0LCBib2R5LCAiYmF6IikKCWFzc2VydC5FcXVhbCh0LCBzdGF0dXMsIGh0dHAuU3RhdHVzT0sp</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWxvZy5QcmludGYoIkhUVFAgc2VydmVyIGxpc3RlbmluZyBvbiBwb3J0ICVkXG4iLCBwb3J0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IWh0dHAvCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGYoIkwiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHN0cmluZyhwb3J0KSkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIpCgl9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHBvcnQpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>.PHONY: lint
-lint:
-	golint $(DIRS)
-	go vet $(DIRS)</text>
+        <text encoding="base64">IGVsc2UgaWYgdmFsID09ICIiIHsKCQkKCX0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWluLksK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuYyBoYW5kbGVHZXRBdXgoc3RvcmFnZSAqc3luYy5NYXAsIHF1ZXJ5IHVybC5WYWx1ZXMpIHsK</text>
+        <text encoding="base64">CXZhbFN0ciA6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWFzc2VydC5FcXVhbCh0LCBzdGF0dXMsIGh0dHAuU3RhdHVzTm9Db250ZW50KQo=</text>
+        <text encoding="base64">CQlvawo=</text>
       </register>
       <register name=":" type="4">
-        <text>210</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -572,7 +592,6 @@ lint:
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
-        <entry>w</entry>
         <entry>107</entry>
         <entry>236</entry>
         <entry>170</entry>
@@ -585,6 +604,7 @@ lint:
         <entry>264</entry>
         <entry>270</entry>
         <entry>210</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

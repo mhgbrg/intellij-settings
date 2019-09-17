@@ -6,7 +6,6 @@
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="dumpDataInPSQL" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="*.yml.template" type="YAML" />
       <removed_mapping ext="template" approved="true" type="Native" />
