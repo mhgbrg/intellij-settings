@@ -3,6 +3,7 @@
     <sdk-path>
       <set>
         <option value="" />
+        <option value="$USER_HOME$/.local/share/devtools/go/1.13.1/go" />
         <option value="/usr/local/Cellar/go/1.12.1/libexec" />
         <option value="/usr/local/Cellar/go/1.12.5/libexec" />
         <option value="/usr/local/Cellar/go/1.13/libexec" />
