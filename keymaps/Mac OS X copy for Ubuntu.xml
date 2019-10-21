@@ -4,7 +4,6 @@
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="$Paste">
-    <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="ActivateDebugToolWindow" />
