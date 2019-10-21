@@ -6,6 +6,9 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
@@ -63,6 +66,9 @@
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
@@ -170,6 +176,9 @@
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
@@ -228,11 +237,9 @@
   </action>
   <action id="VimWindowSplitHorizontal">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
-    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="j" />
   </action>
   <action id="VimWindowSplitVertical">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
-    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="l" />
   </action>
   <action id="VimWindowUp">
     <keyboard-shortcut first-keystroke="ctrl k" />
