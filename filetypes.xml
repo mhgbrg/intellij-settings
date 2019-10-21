@@ -3,10 +3,9 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="dumpDataInPSQL" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc" type="PLAIN_TEXT" />
-      <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping pattern=".env-test" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
+      <mapping pattern="dumpDataInPSQL" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="*.yml.template" type="YAML" />
