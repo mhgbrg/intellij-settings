@@ -196,7 +196,6 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
@@ -214,7 +213,9 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
-  <action id="Run" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
