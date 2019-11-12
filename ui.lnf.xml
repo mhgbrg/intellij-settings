@@ -1,7 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="DISABLE_MNEMONICS" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="2" />
-    <option name="EDITOR_TAB_PLACEMENT" value="0" />
-  </component>
-</application>
