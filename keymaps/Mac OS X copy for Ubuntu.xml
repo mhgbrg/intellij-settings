@@ -169,6 +169,10 @@
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoPrevElementUnderCaretUsage" />
   <action id="GotoTest" />
