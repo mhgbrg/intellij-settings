@@ -169,6 +169,9 @@
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -176,6 +179,10 @@
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoPrevElementUnderCaretUsage" />
   <action id="GotoTest" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+    <mouse-shortcut keystroke="shift meta button1" />
+  </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
