@@ -186,6 +186,7 @@
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
+  <action id="Jdbc.RunSqlScript" />
   <action id="List-selectNextColumn">
     <keyboard-shortcut first-keystroke="right" />
   </action>
@@ -220,13 +221,17 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
-  <action id="ReplaceInPath" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
