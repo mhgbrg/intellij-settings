@@ -1,9 +1,14 @@
 <keymap version="1" name="macOS 2020-02-15" parent="Mac OS X 10.5+">
+  <action id="EditorCutLineEnd" />
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="GotoTest" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -14,4 +19,27 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="l" />
   </action>
+  <action id="TabShiftActions.MoveFocusDown">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="TabShiftActions.MoveFocusLeft">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="TabShiftActions.MoveFocusRight">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="TabShiftActions.MoveFocusUp">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="TabShiftActions.ShiftDown" />
+  <action id="TabShiftActions.ShiftLeft" />
+  <action id="TabShiftActions.ShiftRight" />
+  <action id="TabShiftActions.ShiftUp" />
+  <action id="TabShiftActions.StretchDown" />
+  <action id="TabShiftActions.StretchLeft" />
+  <action id="TabShiftActions.StretchRight" />
+  <action id="TabShiftActions.StretchUp" />
+  <action id="TabShiftActions.ToggleMaximizeRestore" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
