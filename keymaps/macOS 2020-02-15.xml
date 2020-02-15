@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="ServiceView.ShowServices" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="j" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="l" />
   </action>
