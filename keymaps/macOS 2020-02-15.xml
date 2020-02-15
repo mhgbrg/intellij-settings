@@ -1,0 +1,14 @@
+<keymap version="1" name="macOS 2020-02-15" parent="Mac OS X 10.5+">
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="GotoTest" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="l" />
+  </action>
+</keymap>
