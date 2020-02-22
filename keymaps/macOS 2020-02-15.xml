@@ -4,6 +4,8 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoTest" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
@@ -11,6 +13,9 @@
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="ServiceView.ShowServices" />
   <action id="SplitHorizontally">
