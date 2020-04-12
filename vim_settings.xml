@@ -98,12 +98,12 @@
         <mark key="." line="3" column="74" />
         <mark key="^" line="3" column="76" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/web/static/css/global.css" timestamp="1586690390572">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="87" column="12" />
-        <mark key="]" line="87" column="15" />
-        <mark key="^" line="87" column="15" />
-        <mark key="." line="87" column="14" />
+      <file name="$USER_HOME$/code/hndaily/web/static/css/global.css" timestamp="1586727048438">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="165" column="16" />
+        <mark key="]" line="166" column="25" />
+        <mark key="." line="166" column="24" />
+        <mark key="^" line="166" column="25" />
       </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/urls.go" timestamp="1586690433588">
         <mark key="'" line="1" column="0" />
@@ -117,7 +117,7 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="/console" timestamp="1583591787799">
+      <file name="/console" timestamp="1586726602763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/hndaily/Makefile" timestamp="1586686932206">
@@ -176,19 +176,20 @@
         <mark key="." line="38" column="44" />
         <mark key="^" line="38" column="44" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/web/templates/digest/digest.gohtml" timestamp="1586685543971">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/code/hndaily/web/templates/digest/digest.gohtml" timestamp="1586726543806">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="37" />
       </file>
       <file name="/hndaily.public.user_story_read" timestamp="1583591821098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/web/templates/digest/popup.gohtml" timestamp="1584307509285">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="4" column="6" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/hndaily/web/templates/digest/popup.gohtml" timestamp="1586727068532">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="35" />
       </file>
       <file name="/dummy.sql" timestamp="1583591822025">
         <mark key="[" line="0" column="0" />
@@ -202,12 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/code/hndaily/pkg/web/digest_handler.go" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/hndaily/pkg/web/digest_handler.go" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/hndaily/pkg/web/digest_handler.go" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/hndaily/pkg/web/digest_handler.go" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/hndaily/pkg/web/digest_handler.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/hndaily/pkg/web/digest_handler.go" />
       <jump line="0" column="0" filename="$USER_HOME$/code/hndaily/pkg/web/digest_handler.go" />
       <jump line="26" column="43" filename="$USER_HOME$/code/hndaily/pkg/web/urls.go" />
       <jump line="31" column="0" filename="$USER_HOME$/code/hndaily/pkg/web/urls.go" />
@@ -280,7 +275,6 @@
       <jump line="133" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
       <jump line="137" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
       <jump line="141" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
-      <jump line="154" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
       <jump line="149" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
       <jump line="143" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
       <jump line="65" column="4" filename="$USER_HOME$/code/hndaily/pkg/repo/user_story_read_repo.go" />
@@ -302,50 +296,55 @@
       <jump line="27" column="0" filename="$USER_HOME$/code/hndaily/web/static/js/digest.js" />
       <jump line="14" column="0" filename="$USER_HOME$/code/hndaily/web/static/js/digest.js" />
       <jump line="1" column="0" filename="$USER_HOME$/code/hndaily/web/static/js/digest.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
+      <jump line="139" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
+      <jump line="140" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
+      <jump line="144" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
+      <jump line="154" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
+      <jump line="166" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
+      <jump line="168" column="0" filename="$USER_HOME$/code/hndaily/web/static/css/global.css" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYXRhLXN0b3J5LWlkPSJ7ey5JRH19Igo=</text>
+        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>hover</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>#stor</text>
       </register>
-      <register name="0" type="4">
-        <text>.stories .story .rank button:hover {
-  color: var(--color-secondary-hover);
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogZml4ZWQ7CiAgdG9wOiBjYWxjKDUwJSAtIDI1MHB4KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYXRhLXN0b3J5LWlkPSJ7ey5JRH19Igo=</text>
+        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmZ1bmMgU3RvcnlVUkwoaWQgaW50KSBzdHJpbmcgewoJcmV0dXJuIGZtdC5TcHJpbnRmKCIvc3RvcnkvJWQiLCBpZCkKfQo=</text>
+        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb2xvcjogdmFyKC0tY29sb3Itc2Vjb25kYXJ5LWhvdmVyKTsK</text>
+        <text encoding="base64">ICBmb250LWZhbWlseTogdmFyKC0tZm9udC1zYW5zKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB0b3A6IGNhbGMoNTAlIC0gMjUwcHgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnN0b3JpZXMgLnN0b3J5IC5yYW5rIHsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IC0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICByaWdodDogMDsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICB0b3A6IDA7CiAgbGVmdDogMDs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICB0b3A6IDUwJTsKICBsZWZ0OiA1MCU7</text>
       </register>
     </registers>
   </component>
