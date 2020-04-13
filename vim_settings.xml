@@ -106,12 +106,12 @@
         <mark key="^" line="31" column="10" />
         <mark key="." line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/web/session.go" timestamp="1586800233353">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="74" column="89" />
-        <mark key="]" line="74" column="95" />
-        <mark key="^" line="74" column="95" />
-        <mark key="." line="74" column="94" />
+      <file name="$USER_HOME$/code/hndaily/pkg/web/session.go" timestamp="1586802295206">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="24" column="83" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/code/hndaily/pkg/diceware/diceware_test.go" timestamp="1586791821265">
         <mark key="'" line="11" column="0" />
@@ -315,8 +315,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXN0b3JlLk1heEFnZSgwKQo=</text>
       </register>
       <register name="-" type="4">
         <text>string</text>
@@ -345,31 +345,31 @@
 	return user, nil</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXN0b3JlLk1heEFnZSgwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YXIgZXJyIGVycm9yCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CX0gZWxzZSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWlmIGVyciA9PSBFcnJVc2VyTm90U2V0IHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQl2YXIgZXJyIGVycm9yCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CX0gZWxzZSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWlmIGVyciA9PSBFcnJVc2VyTm90U2V0IHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzdG9yeVJlYWRNYXAgPSBtYWtlKG1hcFtpbnRdYm9vbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
