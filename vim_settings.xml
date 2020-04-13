@@ -92,16 +92,55 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/hndaily/pkg/web/story_handler.go" timestamp="1586729518047">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="112" column="45" />
+        <mark key="." line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/Makefile" timestamp="1586792854215">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="31" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/pkg/diceware/diceware_test.go" timestamp="1586791821265">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/db/migrations/20200413174155_app_user_change_external_id_to_passphrase.up.sql" timestamp="1586792770446">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/pkg/repo/user_story_read_repo.go" timestamp="1586793380340" />
+      <file name="$USER_HOME$/code/hndaily/pkg/repo/user_repo.go" timestamp="1586793445899">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="48" column="55" />
+        <mark key="]" line="48" column="73" />
+        <mark key="^" line="48" column="73" />
+        <mark key="." line="48" column="72" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/pkg/web/server.go" timestamp="1586727671276">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="60" column="66" />
+        <mark key="]" line="60" column="66" />
+        <mark key="." line="60" column="66" />
+        <mark key="^" line="60" column="89" />
+      </file>
+      <file name="$USER_HOME$/code/hndaily/pkg/web/archive_handler.go" timestamp="1586728732599">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="43" />
+      </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/handler_utils.go" timestamp="1586728413651">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="73" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/static/css/global.css" timestamp="1586727048438">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="165" column="16" />
-        <mark key="]" line="166" column="25" />
-        <mark key="." line="166" column="24" />
-        <mark key="^" line="166" column="25" />
       </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/urls.go" timestamp="1586727365315">
         <mark key="'" line="1" column="0" />
@@ -117,25 +156,6 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/web/story_handler.go" timestamp="1586729518047">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="112" column="45" />
-        <mark key="." line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/diceware/diceware_test.go" timestamp="1586791821265">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="14" />
-        <mark key="^" line="23" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/db/migrations/20200413174155_app_user_change_external_id_to_passphrase.up.sql" timestamp="1586792742832">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="69" />
-        <mark key="." line="7" column="66" />
-      </file>
       <file name="$USER_HOME$/code/hndaily/web/static/js/digest.js" timestamp="1586727307901">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="37" column="18" />
@@ -149,46 +169,22 @@
         <mark key="." line="43" column="40" />
         <mark key="^" line="43" column="41" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/repo/user_repo.go" timestamp="1586728561733">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="53" column="86" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/web/server.go" timestamp="1586727671276">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="60" column="66" />
-        <mark key="]" line="60" column="66" />
-        <mark key="." line="60" column="66" />
-        <mark key="^" line="60" column="89" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/templates/digest/digest.gohtml" timestamp="1586727209242">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="14" />
+      <file name="$USER_HOME$/code/hndaily/pkg/models/user.go" timestamp="1586793392572">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/code/hndaily/go.mod" timestamp="1586790875432">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/web/archive_handler.go" timestamp="1586728732599">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="43" />
-      </file>
       <file name="$USER_HOME$/code/hndaily/db/migrations/20200413174155_app_user_change_external_id_to_passphrase.down.sql" timestamp="1586792753049">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="73" />
-      </file>
-      <file name="$USER_HOME$/code/hndaily/web/templates/digest/popup.gohtml" timestamp="1586727222834">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="55" />
-        <mark key="^" line="4" column="79" />
       </file>
       <file name="$USER_HOME$/code/hndaily/pkg/web/diceware.go" timestamp="1586729245820">
         <mark key="[" line="0" column="11" />
@@ -203,11 +199,11 @@
         <mark key="." line="156" column="46" />
         <mark key="^" line="156" column="47" />
       </file>
-      <file name="$USER_HOME$/code/hndaily/pkg/web/user_handler.go" timestamp="1586792155006">
-        <mark key="[" line="23" column="45" />
-        <mark key="]" line="23" column="51" />
-        <mark key="^" line="23" column="51" />
-        <mark key="." line="23" column="50" />
+      <file name="$USER_HOME$/code/hndaily/pkg/web/user_handler.go" timestamp="1586793461649">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="39" />
+        <mark key="^" line="23" column="39" />
+        <mark key="." line="23" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -316,44 +312,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VE8g</text>
+        <text>ExternalID</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VE8g</text>
+        <text>ExternalID</text>
       </register>
       <register name="/" type="4">
         <text>#stor</text>
       </register>
       <register name="0" type="4">
-        <text>app_user_external_id_key</text>
+        <text>numWordsInPassphrase</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIGRpY2V3YXJlLkdlbmVyYXRlUGFzc3BocmFzZShwYXNzcGhyYXNlTnVtV29yZHMpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>ALTER TABLE app_user
-RENAME CONSTRAINT app_user_external_id_key TO app_user_passphrase_id_key;</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlnZW5GdW4gOj0gZnVuYygpIChzdHJpbmcsIGVycm9yKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlkaWNlW2ldID0gYnl0ZShyYW5kLkludG4oZGllU2lkZXMpKSArIDEK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmZ1bmMgdW5pcXVlKHMgW11zdHJpbmcpIGJvb2wgewoJCn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgcGFzc3BocmFzZU51bVdvcmRzID0gNAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dHlwZSBJREdlbmVyYXRvckZ1bmMgZnVuYygpIChzdHJpbmcsIGVycm9yKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
