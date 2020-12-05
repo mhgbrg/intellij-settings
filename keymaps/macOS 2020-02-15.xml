@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS 2020-02-15" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/close-square-and-newline" />
+  <action id=":cursive.actions.paredit/kill" />
+  <action id=":cursive.actions.paredit/wrap-square" />
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="shift meta p" />
     <keyboard-shortcut first-keystroke="meta enter" />
