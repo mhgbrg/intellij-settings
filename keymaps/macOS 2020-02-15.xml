@@ -1,12 +1,22 @@
 <keymap version="1" name="macOS 2020-02-15" parent="Mac OS X 10.5+">
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.Submit" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorCutLineEnd" />
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoTest" />
+  <action id="Groovy.Shell.Execute" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
@@ -45,6 +55,8 @@
   <action id="TabShiftActions.StretchRight" />
   <action id="TabShiftActions.StretchUp" />
   <action id="TabShiftActions.ToggleMaximizeRestore" />
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="ViewSource" />
 </keymap>
