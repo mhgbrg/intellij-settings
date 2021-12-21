@@ -33,9 +33,11 @@
   <action id="ServiceView.ShowServices" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="j" />
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="l" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="TabShiftActions.MoveFocusDown">
     <keyboard-shortcut first-keystroke="ctrl j" />
