@@ -20,6 +20,10 @@
   <action id="GotoClass" />
   <action id="GotoTest" />
   <action id="Groovy.Shell.Execute" />
+  <action id="Kotlin.RunScratch">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
