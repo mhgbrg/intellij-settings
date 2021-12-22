@@ -6,6 +6,10 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.Submit" />
@@ -20,6 +24,7 @@
   <action id="GotoClass" />
   <action id="GotoTest" />
   <action id="Groovy.Shell.Execute" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Kotlin.RunScratch">
     <keyboard-shortcut first-keystroke="meta alt w" />
     <keyboard-shortcut first-keystroke="meta enter" />
